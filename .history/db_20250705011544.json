@@ -1,0 +1,114 @@
+{
+    "words": [
+        {
+            "id": 1,
+            "done": false,
+            "phonetic": "jǔ yī fǎn sān",
+            "study": true,
+            "word": "举一反三",
+            "trans": "Infer other info from one fact",
+            "show": false,
+            "pin": true,
+            "sortDate": 1653141810700
+        },
+        {
+            "id": 2,
+            "done": false,
+            "phonetic": "zhǎn dīng jié tiě",
+            "study": true,
+            "word": "斩钉截铁",
+            "trans": "Resolute and decisive e.g. decision",
+            "show": false,
+            "pin": false,
+            "sortDate": 1653141809170
+        },
+        {
+            "id": 3,
+            "done": false,
+            "phonetic": "xuàn lì duō cǎi",
+            "study": true,
+            "word": "绚丽多彩",
+            "trans": "bright and colorful",
+            "show": false,
+            "pin": false,
+            "sortDate": 1653140577430
+        },
+        {
+            "id": 4,
+            "done": false,
+            "phonetic": "xiāng ān wú shì tiān xià tài píng",
+            "study": true,
+            "word": "相安无事天下太平",
+            "trans": "Get along peacefully together",
+            "show": false,
+            "pin": false,
+            "sortDate": 1653138460562
+        },
+        {
+            "id": 5,
+            "done": false,
+            "phonetic": "sì shě wǔ rù",
+            "study": true,
+            "word": "四舍五入",
+            "trans": "Math: rounding off",
+            "show": false,
+            "pin": false,
+            "sortDate": 1653140575672
+        },
+        {
+            "id": 6,
+            "done": false,
+            "phonetic": "shì hòu zhū gé liàng",
+            "study": true,
+            "word": "事后诸葛亮",
+            "trans": "Hindsight is 20/20",
+            "show": false,
+            "pin": false,
+            "sortDate": 1652621193446
+        },
+        {
+            "id": 7,
+            "done": false,
+            "phonetic": "jiàn jī xíng shì",
+            "study": false,
+            "word": "见机行事",
+            "trans": "Play something by ear",
+            "show": false,
+            "pin": false,
+            "sortDate": "2022-05-15T12:10:25.327Z"
+        },
+        {
+            "id": 8,
+            "done": false,
+            "phonetic": "tàn wéi guān zhǐ",
+            "study": false,
+            "word": "叹为观止(的)",
+            "trans": "acclaim sth. as the acme of perfection",
+            "show": false,
+            "pin": false,
+            "sortDate": "2022-05-15T09:16:08.367Z"
+        },
+        {
+            "id": 9,
+            "done": false,
+            "phonetic": "lǐng jūn rén wù",
+            "study": false,
+            "word": "领军人物",
+            "trans": "Leading figure",
+            "show": false,
+            "pin": false,
+            "sortDate": "2022-05-15T12:10:26.252Z"
+        },
+        {
+            "id": 10,
+            "done": false,
+            "phonetic": "lè jí shēng bēi",
+            "study": false,
+            "word": "乐极生悲",
+            "trans": "extreme joy begets sorrow",
+            "show": false,
+            "pin": false,
+            "sortDate": "2022-05-15T12:10:24.509Z"
+        }
+    ]
+}
